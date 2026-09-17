@@ -1,0 +1,12 @@
+{
+  "name": "awesome-vggt",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-catalog.mjs",
+    "sync": "node scripts/sync.mjs",
+    "collect:resources": "node scripts/collect-resources.mjs",
+    "check": "node scripts/check-catalog.mjs && node scripts/check-alignment.mjs"
+  }
+}

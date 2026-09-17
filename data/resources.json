@@ -1,0 +1,317 @@
+{
+  "chen2026of3gs": {
+    "paper": "https://arxiv.org/abs/2606.03254",
+    "code": "https://github.com/richardchen225/OF3GS_code",
+    "project": "https://richardchen225.github.io/of3gs/"
+  },
+  "chen2025think3d": {
+    "code": "https://github.com/zhangquanchen/3DThinker"
+  },
+  "dai2026asyncevgs": {
+    "project": "https://openimaginglab.github.io/AsyncEvGS/"
+  },
+  "deng2025unipr3d": {
+    "code": "https://github.com/dtc111111/UniPR-3D"
+  },
+  "deng2025vggtlong": {
+    "paper": "https://arxiv.org/abs/2507.16443",
+    "code": "https://github.com/DengKaiCQ/VGGT-Long"
+  },
+  "deng2026saf3r": {
+    "code": "https://github.com/jndeng/SAF3R"
+  },
+  "ding2026laser": {
+    "project": "https://neu-vi.github.io/LASER/",
+    "code": "https://github.com/neu-vi/LASER"
+  },
+  "duan2026fisheye3r": {
+    "code": "https://github.com/android-xr/fisheye3r"
+  },
+  "feng2025quantvggt": {
+    "code": "https://github.com/wlfeng0509/QuantVGGT"
+  },
+  "gao2026dego": {
+    "code": "https://github.com/vita-epfl/DeGO"
+  },
+  "gelencser2026scenevggt": {
+    "paper": "https://arxiv.org/abs/2602.15899",
+    "code": "https://github.com/HBVC-AI/SceneVGGT"
+  },
+  "huang2026selfevo": {
+    "project": "https://self-evo.github.io/",
+    "code": "https://github.com/Self-Evo/SelfEvo"
+  },
+  "huang2026synctwin": {
+    "project": "https://sync-twin.github.io/"
+  },
+  "huang2026turbovggt": {
+    "project": "https://turbovggt.github.io/"
+  },
+  "jeon2026aimslam": {
+    "project": "https://aimslam.github.io/"
+  },
+  "kang2026ricloc": {
+    "code": "https://github.com/SNU-DLLAB/ric_loc"
+  },
+  "lee2025swiftvggt": {
+    "paper": "https://arxiv.org/abs/2511.18290",
+    "code": "https://github.com/Jho-Yonsei/SwiftVGGT",
+    "project": "https://Jho-Yonsei.github.io/SwiftVGGT/"
+  },
+  "liu2025vggtx": {
+    "project": "https://dekuliutesla.github.io/vggt-x.github.io/",
+    "code": "https://github.com/Linketic/VGGT-X"
+  },
+  "lu2026ovggt": {
+    "paper": "https://arxiv.org/abs/2603.05959",
+    "code": "https://github.com/VAISR/OVGGT",
+    "project": "https://vaisr.github.io/OVGGT/"
+  },
+  "maggio2025vggtslam": {
+    "paper": "https://arxiv.org/abs/2505.12549",
+    "code": "https://github.com/MIT-SPARK/VGGT-SLAM"
+  },
+  "pan2026hyvggtvo": {
+    "project": "https://geneta2580.github.io/HyVGGT-VO.io",
+    "code": "https://github.com/Geneta2580/HyVGGT-VO"
+  },
+  "qu2026segvggt": {
+    "paper": "https://arxiv.org/abs/2603.19926",
+    "code": "https://github.com/IDEA-Research/SegVGGT"
+  },
+  "ren2026eventvggt": {
+    "code": "https://github.com/yinruiRen/EventVGGT"
+  },
+  "ren2026wat3r": {
+    "code": "https://github.com/LSXI7/Wat3R"
+  },
+  "shen2025fastvggt": {
+    "paper": "https://arxiv.org/abs/2509.02560",
+    "code": "https://github.com/mystorm16/FastVGGT",
+    "project": "https://mystorm16.github.io/fastvggt/"
+  },
+  "su2026xstreamvggt": {
+    "code": "https://github.com/ywh187/XStreamVGGT/"
+  },
+  "wan2026splatweaver": {
+    "project": "https://yecongwan.github.io/SplatWeaver/",
+    "code": "https://github.com/yecongwan/SplatWeaver"
+  },
+  "wu20254dlangvggt": {
+    "code": "https://github.com/hustvl/4DLangVGGT",
+    "project": "https://hustvl.github.io/4DLangVGGT/"
+  },
+  "yuan2026infinitevggt": {
+    "code": "https://github.com/AutoLab-SAI-SJTU/InfiniteVGGT"
+  },
+  "zhang2026cal2m": {
+    "code": "https://github.com/IRMVLab/CALM"
+  },
+  "zhang2026fgq": {
+    "code": "https://github.com/ypzhng/FGQ"
+  },
+  "zhang2026lite3r": {
+    "code": "https://github.com/AIGeeksGroup/Lite3R",
+    "project": "https://aigeeksgroup.github.io/Lite3R"
+  },
+  "zhang2026r3dp": {
+    "paper": "https://arxiv.org/abs/2603.14498",
+    "code": "https://github.com/dazazh/R3DP",
+    "project": "https://dazazh.github.io/r3dp-project-page/"
+  },
+  "zhao2025cetcam": {
+    "project": "https://sjtuytc.github.io/CETCam_project_page.github.io/"
+  },
+  "zheng2026goodtoken": {
+    "project": "https://zsh2000.github.io/good-token-hunting.github.io",
+    "code": "https://github.com/zsh2000/gotohunt"
+  },
+  "zhou2025page4d": {
+    "project": "https://page4d.github.io/",
+    "code": "https://github.com/kaichen-z/PAGE4D"
+  },
+  "zhou2026gem4d": {
+    "project": "https://gem-4d.github.io/"
+  },
+  "zhou2026gpocc": {
+    "code": "https://github.com/JuIvyy/GPOcc",
+    "project": "https://juivyy.github.io/gpocc/"
+  },
+  "zhuo2025streaming4d": {
+    "code": "https://github.com/wzzheng/StreamVGGT",
+    "project": "https://wzzheng.net/StreamVGGT/"
+  },
+  "zou2026retrievevggt": {
+    "code": "https://github.com/zzctmd/RetrieveVGGT"
+  },
+  "peng2025omnivggt": {
+    "code": "https://github.com/Livioni/OmniVGGT-official",
+    "project": "https://livioni.github.io/OmniVGGT-official/"
+  },
+  "keetha2025mapanything": {
+    "code": "https://github.com/facebookresearch/map-anything",
+    "project": "https://map-anything.github.io/"
+  },
+  "liu2025worldmirror": {
+    "code": "https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror",
+    "project": "https://3d-models.hunyuan.tencent.com/world/"
+  },
+  "wang2025lidarvggt": {
+    "code": "https://github.com/NorwegianSmokedSalmon/LiDAR-VGGT"
+  },
+  "yuan2026vggt360": {
+    "code": "https://github.com/Yuanjiayii/VGGT-360"
+  },
+  "guo2026panovggt": {
+    "code": "https://github.com/YijingGuo-June/PanoVGGT"
+  },
+  "pan2026qvggt": {
+    "code": "https://github.com/DDsacu/QVGGT",
+    "project": "https://ddsacu.github.io/QVGGT/"
+  },
+  "wang2025blocksparsevggt": {
+    "code": "https://github.com/brianwang00001/sparse-vggt",
+    "project": "https://brianwang00001.github.io/sparse-vggt/"
+  },
+  "kweon2026darkvggt": {
+    "code": "https://github.com/phai-lab/DarkVGGT",
+    "project": "https://darkvggt.github.io/"
+  },
+  "pan2026vgtw": {
+    "code": "https://github.com/Tianbo-Pan/VGTW",
+    "project": "https://tianbo-pan.github.io/vgt-w/"
+  },
+  "han2026robustvggt": {
+    "code": "https://github.com/cvlab-kaist/RobustVGGT",
+    "project": "https://cvlab-kaist.github.io/RobustVGGT/"
+  },
+  "wang2026stac": {
+    "code": "https://github.com/Rainzor/STAC",
+    "project": "https://stac-3r.github.io/"
+  },
+  "mahdi2025evict3r": {
+    "code": "https://github.com/soroush-mim/evict3r",
+    "project": "https://soroush-mim.github.io/projects/evict3r/"
+  },
+  "hosseinzadeh2025g3splat": {
+    "code": "https://github.com/m80hz/g3splat",
+    "project": "https://m80hz.github.io/g3splat/"
+  },
+  "cao2026vggtdet": {
+    "code": "https://github.com/yangcaoai/VGGT-Det-CVPR2026"
+  },
+  "zhang2026vggtcd": {
+    "code": "https://github.com/WZ-CS/VGGT-CD"
+  },
+  "mvggt": {
+    "code": "https://github.com/sosppxo/mvggt",
+    "project": "https://mvggt.github.io/"
+  },
+  "huang2026cinescene": {
+    "project": "https://karine-huang.github.io/CineScene/"
+  },
+  "vuong2025efficientgeometry": {
+    "code": "https://github.com/andvg3/eVGGT",
+    "project": "https://evggt.github.io/"
+  },
+  "wang2026ocra": {
+    "project": "https://sressers.github.io/OCRA/"
+  },
+  "abouzeid2025geoawarevla": {
+    "project": "https://alisharey.github.io/GeoAware-VLA/"
+  },
+  "yang2026abotm0": {
+    "code": "https://github.com/amap-cvlab/ABot-Manipulation/tree/ABot-M0",
+    "project": "https://amap-cvlab.github.io/ABot-Manipulation/"
+  },
+  "fan2026ssrgs": {
+    "project": "https://gsflyer.github.io/SSR-GS/"
+  },
+  "shu2025litevggt": {
+    "code": "https://github.com/GarlicBa/LiteVGGT-repo",
+    "project": "https://garlicba.github.io/LiteVGGT/"
+  },
+  "chen2025come": {
+    "code": "https://github.com/co-me-tokens/CoMe",
+    "project": "https://co-me-tokens.github.io/"
+  },
+  "wang2026vggtomega": {
+    "code": "https://github.com/facebookresearch/vggt-omega",
+    "project": "https://vggt-omega.github.io/"
+  },
+  "wang2025flashvggt": {
+    "code": "https://github.com/wzpscott/FlashVGGT",
+    "project": "https://wzpscott.github.io/flashvggt_page/"
+  },
+  "liu2026watervggt": {
+    "code": "https://github.com/awhitewhale/watervggt"
+  },
+  "xu2026framevggt": {
+    "code": "https://github.com/ZhisongXu/FrameVGGT"
+  },
+  "cheng2026longstream": {
+    "code": "https://github.com/3DAgentWorld/LongStream",
+    "project": "https://3dagentworld.github.io/longstream/"
+  },
+  "park2026diversityvggt": {
+    "code": "https://github.com/jspark1213/DA-VGGT",
+    "project": "https://jspark1213.github.io/DA-VGGT/"
+  },
+  "he2026dynamicvggt": {
+    "code": "https://github.com/NickHezhuolin/DynamicVGGT"
+  },
+  "hu2025vggt4d": {
+    "code": "https://github.com/3DAgentWorld/VGGT4D",
+    "project": "https://3dagentworld.github.io/vggt4d/"
+  },
+  "chen2026stereovggt": {
+    "project": "https://stereovggt.github.io/"
+  },
+  "jiang2025anysplat": {
+    "code": "https://github.com/InternRobotics/AnySplat",
+    "project": "https://city-super.github.io/anysplat/"
+  },
+  "yu2026recondrive": {
+    "code": "https://github.com/TuojingAI/ReconDrive"
+  },
+  "maggio2026vggtslam2": {
+    "code": "https://github.com/MIT-SPARK/VGGT-SLAM"
+  },
+  "hu2025ec3rslam": {
+    "code": "https://github.com/hulxgit/EC3R-SLAM",
+    "project": "https://h0xg.github.io/ec3r/"
+  },
+  "gao2026vggtsegmentor": {
+    "code": "https://github.com/buaa-colalab/VGGT-S",
+    "project": "https://bohaozhang007.github.io/VGGT-S-project-page/"
+  },
+  "lee2025geodistillvlm": {
+    "code": "https://github.com/kaist-cvml/geometric-distillation"
+  },
+  "choi2026drmv3d": {
+    "project": "https://dr-mv3d.github.io/"
+  },
+  "sun2026vggtworld": {
+    "code": "https://github.com/SimonSun0810/VGGT-World"
+  },
+  "qian2025wristworld": {
+    "code": "https://github.com/XuWuLingYu/WristWorld",
+    "project": "https://wrist-world.github.io/"
+  },
+  "du2026videogpa": {
+    "code": "https://github.com/Hongyang-Du/VideoGPA",
+    "project": "https://hongyang-du.github.io/VideoGPA-Website/"
+  },
+  "ge2025vggtdp": {
+    "code": "https://github.com/Tigerdwgth/vggt-dp",
+    "project": "https://tigerdwgth.github.io/vggt-dp/"
+  },
+  "wang2026vggdrive": {
+    "code": "https://github.com/WJ-CV/VGGDrive",
+    "project": "https://WJ-CV.github.io/VGGDrive/"
+  },
+  "sucar2026vdpm": {
+    "code": "https://github.com/eldar/vdpm",
+    "project": "https://www.robots.ox.ac.uk/~vgg/research/vdpm/"
+  }
+}

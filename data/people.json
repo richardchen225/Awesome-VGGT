@@ -1,0 +1,33 @@
+{
+  "Ruiyang Chen": {
+    "url": "https://richardchen225.github.io/",
+    "source": "https://richardchen225.github.io/",
+    "note": "Page title, name, and OF3GS publication identify the author."
+  },
+  "Feiran Li": {
+    "url": "https://sites.google.com/view/feiranlihomepage/home",
+    "source": "https://api.github.com/users/feiran-l?per_page=30",
+    "note": "Personal academic homepage listed in the author's GitHub profile."
+  },
+  "Chu Zhou": {
+    "url": "https://fourson.github.io/",
+    "available": false,
+    "source": "https://cdn.jsdelivr.net/gh/fourson/fourson.github.io@main/_config.yml",
+    "note": "URL, full name, and email verified in the author's site configuration and OF3GS README. The deployed homepage returned HTTP 404 on 2026-09-17."
+  },
+  "Heng Guo": {
+    "url": "https://gh-home.github.io/",
+    "source": "https://gh-home.github.io/",
+    "note": "Page identifies Heng Guo and lists OF3GS."
+  },
+  "Boxin Shi": {
+    "url": "https://ci.idm.pku.edu.cn/team/",
+    "source": "https://ci.idm.pku.edu.cn/team/",
+    "note": "Official PKU lab page contains Boxin Shi's profile and biography."
+  },
+  "Zhanyu Ma": {
+    "url": "https://zhanyuma.cn/",
+    "source": "https://zhanyuma.cn/",
+    "note": "Page title and email identify Zhanyu Ma."
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+.npm-cache/
+.resource-audit/
+/reference-awesome-readme.md
+/resource-audit.json
+.DS_Store
+Thumbs.db
+npm-debug.log*
