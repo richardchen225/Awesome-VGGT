@@ -23,7 +23,7 @@
 
 A literature collection accompanying the survey, organized into geometric-state strengthening and downstream applications.
 
-The survey describes one geometric state with two components: **multi-view geometry latent features**, $\mathcal{Z}_{\mathrm{geo}}$, and **structured geometric outputs**, $\mathcal{R}_{\mathrm{geo}}$ (cameras, point maps, depth maps, and tracks).
+The survey describes one geometric state with two components: **multi-view geometry latent features**, Z<sub>geo</sub>, and **structured geometric outputs**, R<sub>geo</sub> (cameras, point maps, depth maps, and tracks).
 
 The catalog currently includes **63 strengthening works** and **79 application works**. Updated 2026-09-17.
 

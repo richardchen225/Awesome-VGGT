@@ -130,7 +130,7 @@ const lines = [
   ...resources.map((resource) => `  <a href="${resource.href}"><img alt="${resource.label}" src="${html(resource.image)}"></a>`),
   "</p>", "",
   "A literature collection accompanying the survey, organized into geometric-state strengthening and downstream applications.", "",
-  "The survey describes one geometric state with two components: **multi-view geometry latent features**, $\\mathcal{Z}_{\\mathrm{geo}}$, and **structured geometric outputs**, $\\mathcal{R}_{\\mathrm{geo}}$ (cameras, point maps, depth maps, and tracks).", "",
+  "The survey describes one geometric state with two components: **multi-view geometry latent features**, Z<sub>geo</sub>, and **structured geometric outputs**, R<sub>geo</sub> (cameras, point maps, depth maps, and tracks).", "",
   `The catalog currently includes **${categories.filter((c) => c.branch === "strengthening").reduce((n, c) => n + c.papers.length, 0)} strengthening works** and **${categories.filter((c) => c.branch === "reuse").reduce((n, c) => n + c.papers.length, 0)} application works**. Updated ${metadata.updated}.`, "",
   "## Contents", "",
   "- **[State Strengthening](#state-strengthening)**",
