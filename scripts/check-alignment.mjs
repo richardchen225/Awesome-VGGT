@@ -60,7 +60,7 @@ const hashes = JSON.parse(fs.readFileSync(path.join(site, "assets/sources.json")
 const hash = (file) => createHash("sha256").update(fs.readFileSync(file)).digest("hex");
 for (const [name, record] of Object.entries(hashes)) {
   assert.equal(hash(path.join(surveyRoot, record.source)), record.sha256, `Stale source: ${name}`);
-  assert.equal(hash(path.join(site, "assets", name === "paper" ? "survey_acmcsur.pdf" : `${name}.pdf`)), record.sha256, `Stale PDF: ${name}`);
+  assert.equal(hash(path.join(site, "assets", name === "paper" ? path.basename(record.source) : `${name}.pdf`)), record.sha256, `Stale PDF: ${name}`);
 }
 const html = fs.readFileSync(path.join(site, "index.html"), "utf8");
 const ids = new Set([...html.matchAll(/\bid="([^"]+)"/g)].map((m) => m[1]));

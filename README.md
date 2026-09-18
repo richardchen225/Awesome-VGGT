@@ -16,7 +16,7 @@
 <p align="center"><sup>*</sup>Corresponding author: <a href="mailto:guoheng@bupt.edu.cn">Heng Guo</a></p>
 
 <p align="center">
-  <a href="../vggt-survey-website/assets/survey_acmcsur.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-b31b1b?style=flat&amp;logo=arxiv&amp;logoColor=white"></a>
+  <a href="https://richardchen225.github.io/vggt_survey/assets/survey_arxiv.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-b31b1b?style=flat&amp;logo=arxiv&amp;logoColor=white"></a>
   <a href="https://richardchen225.github.io/vggt_survey/"><img alt="Website" src="https://img.shields.io/badge/Website-2ea44f?style=flat&amp;logo=googlechrome&amp;logoColor=white"></a>
   <a href="#citation"><img alt="BibTeX" src="https://img.shields.io/badge/BibTeX-175D91?style=flat&amp;logo=latex&amp;logoColor=white"></a>
 </p>

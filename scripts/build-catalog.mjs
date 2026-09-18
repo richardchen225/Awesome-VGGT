@@ -119,7 +119,7 @@ const header = [
   '<p align="center"><sup>*</sup>Corresponding author: <a href="mailto:guoheng@bupt.edu.cn">Heng Guo</a></p>', "",
 ];
 const resources = [
-  { label: "Paper", href: "../vggt-survey-website/assets/survey_acmcsur.pdf", image: "https://img.shields.io/badge/Paper-b31b1b?style=flat&logo=arxiv&logoColor=white" },
+  { label: "Paper", href: "https://richardchen225.github.io/vggt_survey/assets/survey_arxiv.pdf", image: "https://img.shields.io/badge/Paper-b31b1b?style=flat&logo=arxiv&logoColor=white" },
   { label: "Website", href: "https://richardchen225.github.io/vggt_survey/", image: "https://img.shields.io/badge/Website-2ea44f?style=flat&logo=googlechrome&logoColor=white" },
   { label: "BibTeX", href: "#citation", image: "https://img.shields.io/badge/BibTeX-175D91?style=flat&logo=latex&logoColor=white" },
 ];
@@ -168,7 +168,7 @@ const rootReadme = fs.readFileSync(rootReadmePath, "utf8");
 const rootNotes = rootReadme.indexOf("## ACM Computing Surveys version");
 if (rootNotes >= 0) {
   const rootHeader = [...header, '<p align="center">', ...resources.map((resource) => {
-    const href = resource.label === "Paper" ? "survey_acmcsur.pdf" : resource.label === "Website" ? "https://richardchen225.github.io/vggt_survey/" : "awesome-vggt/README.md#citation";
+    const href = resource.label === "Paper" ? resource.href : resource.label === "Website" ? "https://richardchen225.github.io/vggt_survey/" : "awesome-vggt/README.md#citation";
     return `  <a href="${href}"><img alt="${resource.label}" src="${html(resource.image)}"></a>`;
   }), "</p>", ""];
   fs.writeFileSync(rootReadmePath, rootHeader.join("\n") + "\n" + rootReadme.slice(rootNotes));
