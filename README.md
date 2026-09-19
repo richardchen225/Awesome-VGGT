@@ -389,9 +389,11 @@ Uses geometric state in action policies, planning and trajectory generation, and
 
 ```bibtex
 @misc{chen2026vggtsurvey,
-  title = {VGGT for 3D Reconstruction and Beyond: A Survey of Geometric State Strengthening and Its Applications},
+  title = {{VGGT} for {3D} Reconstruction and Beyond: A Survey of Geometric State Strengthening and Its Applications},
   author = {Chen, Ruiyang and Li, Feiran and Cheng, Ruiyang and Yang, Jiashuo and Zhou, Chu and Guo, Heng and Shi, Boxin and Ma, Zhanyu},
   year = {2026},
-  note = {Survey manuscript}
+  note = {Preprint},
+  doi = {10.13140/RG.2.2.14069.33767},
+  url = {https://doi.org/10.13140/RG.2.2.14069.33767}
 }
 ```
